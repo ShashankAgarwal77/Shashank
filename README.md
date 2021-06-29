@@ -1,15 +1,15 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Shashank Agarwal</h2>
-<h3>I'm creative full-stack developer from India, known for belief in the power of creativity, minimalism &problem solving to create more inclusive communities </h3>
+<h3>I'm creative full-stack developer & Designer from India, known for belief in the power of creativity, minimalism &problem solving to create more inclusive communities </h3>
 
 - 🌱 I’m currently looking for a job.
 
-- 📙 Currently Learning - Advance JS Concepts and ReactJS 
+- 📙 Currently Learning - API and Express
 
 - 🍽 Things on my plate for later - MongoDB and Express
 
 - 👨‍💻 All of my projects are available at [shashankagarwal.tech - my portfolio site](https://shashankagarwal.tech).
 
-- 💬 Ask me about React, Node.js, JavaScript & UI Development in general.
+- 💬 Ask me about React, Node.js, JavaScript & UX Design & Development in general.
 
 - 📫 How to reach me: **shashankagarwal.official@gmail.com**
 
