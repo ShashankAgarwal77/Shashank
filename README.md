@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Shashank Agarwal</h2>
-<h3>I'm creative full-stack developer & Designer from India, known for belief in the power of creativity, minimalism &problem solving to create more inclusive communities </h3>
+<h3>I'm creative full-stack Developer & Designer from India, known for belief in the power of creativity, minimalism &problem solving to create more inclusive communities </h3>
 
 - 🌱 I’m currently looking for a job.
 
